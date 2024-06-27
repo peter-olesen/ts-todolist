@@ -2,5 +2,5 @@ import { defineConfig } from "vite"
 
 export default defineConfig ({
     // config options
-    base: "/todolist-ts/",
+    base: "/ts-todolist/",
   });
